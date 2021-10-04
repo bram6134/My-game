@@ -1,0 +1,24 @@
+h1{
+    color:blue;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Heading{
+    display: flex;
+    background-image: linear-gradient(violet,purple);
+    font-size: 15px;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 50;
+}
+
+.Heading img{
+    margin-top:5
+}
+
+body{
+    background-image: linear-gradient(blue,darkblue);
+    color: purple;
+    font-family: cursive;
+}
